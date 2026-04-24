@@ -8,14 +8,14 @@
   <a href="https://www.linkedin.com/in/vitor-queiroz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/vitorrobertogg">
+  <a href="https://github.com/vitorrobertogq">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrobertogg&layout=compact&theme=tokyonight"/>
+<img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrobertogq&layout=compact&theme=tokyonight"/>
 
 ### About me
 
@@ -81,8 +81,8 @@ RAW → TRUSTED → REFINED → CURATED
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorrobertogg&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrobertogg&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorrobertogq&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrobertogq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
