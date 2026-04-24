@@ -1,65 +1,113 @@
 <h1 align="center">Vitor Roberto</h1>
 
 <p align="center">
-  Engenheiro de Dados | Data Engineering | ETL | Data Lake | AWS
+  <strong>Data Engineer | Python | Spark | AWS | SQL | Data Lake</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-queiroz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vitorrobertogg">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## Sobre
+<img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrobertogg&layout=compact&theme=tokyonight"/>
 
-Atuo na construção de pipelines de dados escaláveis, desde a ingestão até a camada analítica, seguindo arquitetura de Data Lake (RAW → TRUSTED → REFINED → CURATED).
+### About me
 
-Tenho experiência com integração de dados públicos, modelagem dimensional e processamento distribuído com foco em performance e organização.
+I am a Computer Engineering student focused on **Data Engineering**, building pipelines, data lakes and analytical data models.
 
----
+My work is mainly related to **ETL processes**, **distributed processing**, **cloud data architecture** and **dimensional modeling**.
 
-## Stack
-
-**Linguagens & Processamento**
-
-* Python (PySpark, Pandas)
-* SQL
-
-**Dados & Engenharia**
-
-* Apache Spark
-* Data Lake
-* Modelagem Dimensional
-
-**Cloud & Ferramentas**
-
-* AWS (S3, Glue, Athena)
-* Apache Airflow
+```txt
+Data Lake Architecture
+RAW → TRUSTED → REFINED → CURATED
+```
 
 ---
 
-## Experiência com Dados
+### Current focus
 
-* Construção de pipelines ETL completos
-* Padronização e tratamento de dados em larga escala
-* Integração de múltiplas fontes (RAIS, CAGED, COMEX, ANTAQ)
-* Organização em camadas (RAW, TRUSTED, REFINED, CURATED)
-
----
-
-## Modelagem de Dados
-
-* Star Schema
-* Slowly Changing Dimensions (Type 1, 2, 3)
-* Fact Tables e Dimensions
-* Uso de Surrogate Keys
+* Building scalable ETL pipelines with Python and Spark
+* Designing Data Lake architectures on AWS
+* Modeling analytical layers using Star Schema
+* Working with public datasets such as RAIS, CAGED, COMEX, ANTAQ and INEP
 
 ---
 
-## Projetos
+### Tech Stack
 
-* Pipeline de dados COMEX NCM
-* ETL RAIS multi-região
-* Integração Receita Federal (CNPJ)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,postgres,docker,git,github,linux,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## Contato
+### Data Engineering Skills
 
-* LinkedIn: https://www.linkedin.com/in/vitor-queiroz/
+<table>
+  <tr>
+    <td><strong>ETL / ELT</strong></td>
+    <td>Ingestion, transformation, validation and analytical layer preparation</td>
+  </tr>
+  <tr>
+    <td><strong>Data Lake</strong></td>
+    <td>RAW, TRUSTED, REFINED and CURATED architecture</td>
+  </tr>
+  <tr>
+    <td><strong>Modeling</strong></td>
+    <td>Star Schema, facts, dimensions, surrogate keys and SCD</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>AWS S3, Glue, Athena and serverless data processing</td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorrobertogg&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrobertogg&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <strong>Data Lake Pipeline</strong><br/>
+      ETL pipeline using Python, Spark and AWS layers.
+    </td>
+    <td>
+      <strong>Dimensional Modeling</strong><br/>
+      Star Schema, facts, dimensions and SCD modeling.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Public Data Integration</strong><br/>
+      Pipelines using RAIS, CAGED, COMEX, ANTAQ and INEP datasets.
+    </td>
+    <td>
+      <strong>AWS Data Architecture</strong><br/>
+      S3, Glue, Athena and curated analytical tables.
+    </td>
+  </tr>
+</table>
